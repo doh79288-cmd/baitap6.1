@@ -1,4 +1,4 @@
-> # Bài tập 5.1:
+> # Bài tập 6.1:
 
 **Thông tin sinh viên:**
 * **Họ và tên:** Đỗ Thanh Hiếu
@@ -8,7 +8,7 @@
 ## Kết quả 
 Hình ảnh kết quả:
 
-![web](./assets/aa1.jpg)
-![web](./assets/aa2.jpg)
-![web](./assets/aa3.jpg)
-![web](./assets/aa4.jpg)
+![](./assets/aa1.jpg)
+![](./assets/aa2.jpg)
+![](./assets/aa3.jpg)
+![](./assets/aa4.jpg)
